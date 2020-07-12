@@ -1,0 +1,10 @@
+.paper{
+  padding: 15px;
+}
+
+.box-text-field{
+ margin-bottom: 25px;
+}
+.box-text-field__input{
+  width: 100%;
+}

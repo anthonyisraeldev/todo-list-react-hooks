@@ -1,0 +1,12 @@
+.item-todo{
+  background: #ffffff;
+  border-radius: 3px;
+  padding: 8px 15px 20px 15px;
+  border: 1px solid #007bff;
+  list-style: none;
+  margin-bottom: 15px;
+}
+.btn-delete{
+  float: right;
+  margin:  0 16px 15px 16px;
+}
